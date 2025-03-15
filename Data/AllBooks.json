@@ -1,0 +1,142 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "To Kill a Mockingbird",
+    "authorName": "Harper Lee",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8232106-L.jpg",
+    "rating": 4.9
+  },
+  {
+    "bookId": 2,
+    "bookName": "1984",
+    "authorName": "George Orwell",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Great Gatsby",
+    "authorName": "F. Scott Fitzgerald",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/6665546-L.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 4,
+    "bookName": "Pride and Prejudice",
+    "authorName": "Jane Austen",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8222176-L.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 5,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "authorName": "J.K. Rowling",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/7819972-L.jpg",
+    "rating": 4.9
+  },
+  {
+    "bookId": 6,
+    "bookName": "Lord of the Rings: The Fellowship of the Ring",
+    "authorName": "J.R.R. Tolkien",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8615062-L.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 7,
+    "bookName": "The Catcher in the Rye",
+    "authorName": "J.D. Salinger",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8370374-L.jpg",
+    "rating": 4.3
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Hobbit",
+    "authorName": "J.R.R. Tolkien",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/7964927-L.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 9,
+    "bookName": "War and Peace",
+    "authorName": "Leo Tolstoy",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/6844388-L.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 10,
+    "bookName": "Fahrenheit 451",
+    "authorName": "Ray Bradbury",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8318979-L.jpg",
+    "rating": 4.4
+  },
+  {
+    "bookId": 11,
+    "bookName": "The Alchemist",
+    "authorName": "Paulo Coelho",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8238477-L.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 12,
+    "bookName": "Brave New World",
+    "authorName": "Aldous Huxley",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/6893932-L.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 13,
+    "bookName": "Jane Eyre",
+    "authorName": "Charlotte Brontë",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/6943056-L.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 14,
+    "bookName": "Animal Farm",
+    "authorName": "George Orwell",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8422002-L.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 15,
+    "bookName": "The Picture of Dorian Gray",
+    "authorName": "Oscar Wilde",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8037812-L.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 16,
+    "bookName": "The Outsiders",
+    "authorName": "S.E. Hinton",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/7893946-L.jpg",
+    "rating": 4.6
+  },
+  {
+    "bookId": 17,
+    "bookName": "Les Misérables",
+    "authorName": "Victor Hugo",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/8537791-L.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 18,
+    "bookName": "Catch-22",
+    "authorName": "Joseph Heller",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/6962547-L.jpg",
+    "rating": 4.7
+  },
+  {
+    "bookId": 19,
+    "bookName": "Crime and Punishment",
+    "authorName": "Fyodor Dostoevsky",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/6934246-L.jpg",
+    "rating": 4.8
+  },
+  {
+    "bookId": 20,
+    "bookName": "The Road",
+    "authorName": "Cormac McCarthy",
+    "bookImageLink": "https://covers.openlibrary.org/b/id/7476395-L.jpg",
+    "rating": 4.6
+  }
+]
