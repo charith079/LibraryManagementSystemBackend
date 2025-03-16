@@ -15,7 +15,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.get('/',(req,res)=>{
-  res.send('Welcome to the Bookstore API');
+  res.send('Welcome to the Bookstore API charith');
 });
 
 // Update route mounting with proper prefixes
