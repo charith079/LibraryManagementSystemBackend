@@ -20,5 +20,7 @@ app.use('/api/books', booksRouters);
 
 app.listen(PORT,()=>{
   console.log(`Server is running on port:${PORT}`);
+  console.log('port', PORT);
+  console.log('process.env.MONGODB_URI', process.env.MONGODB_URI);
 })
 
