@@ -14,6 +14,10 @@ connectDb();
 app.use(cors());
 app.use(bodyParser.json());
 
+app.get('/',(req,res)=>{
+  res.send('Welcome to the Bookstore API');
+});
+
 // Update route mounting with proper prefixes
 app.use('/api/users', userRoutes);
 app.use('/api/books', booksRouters);
